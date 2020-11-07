@@ -77,4 +77,3 @@ My goal is to gain work experience in order to upgrade existing knowledge and tr
 </div>
 </body>
 </html>
-
